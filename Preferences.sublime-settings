@@ -3,7 +3,6 @@
 	[
 		"F02"
 	],
-	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
 	"default_line_ending": "unix",
