@@ -1,0 +1,13 @@
+# http://font.ubuntu.com/
+# http://dag.wiee.rs/blog/content/improving-putty-settings-on-windows
+
+Category: Terminal > Bell
+Action to happen when a bell occurs: Visual bell (flash window)
+Taskbar/caption indication: Flashing
+
+Category: Window > Colours
+ANSI Blue: Red:74 Green:74 Blue:255
+ANSI Blue Bold: Red:140: Green:140 Blue:255
+
+Category: Connection > SSH
+Remote command: tmux new-session -A -s main
