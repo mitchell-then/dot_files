@@ -1,4 +1,4 @@
-# http://font.ubuntu.com/
+# Font: https://github.com/powerline/fonts/blob/master/SourceCodePro/Sauce%20Code%20Powerline%20Regular.otf
 # http://dag.wiee.rs/blog/content/improving-putty-settings-on-windows
 
 Category: Terminal > Bell
