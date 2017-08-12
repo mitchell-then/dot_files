@@ -24,3 +24,5 @@ alias la='ls -A'
 alias l='ls -CF'
 
 alias untar='tar -zxvf'
+
+alias less='less -N'
